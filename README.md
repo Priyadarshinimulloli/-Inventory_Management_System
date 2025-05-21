@@ -1,16 +1,26 @@
-# 🏪 Inventory Management System
+# 📦 Inventory Management System
 
-This repository contains the backend and frontend code for an Inventory Management System supporting a shopping cart website.
+This repository contains the backend and frontend code for an Inventory Management System supporting a shopping cart website.  
+It allows managing products, including creation, updating, deletion, and viewing product details. The system supports real-time inventory tracking and smooth user experience with React frontend and Node.js backend.
 
 ---
-
 ## 💻 Tech Stack
 
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose  
 - **Frontend:** React.js, Vite
 
 ---
+## 📝 Project Details
 
+The Inventory Management System enables:
+
+- Product management (add, update, delete, view)  
+- Inventory tracking with quantity control  
+- REST API backend with Express and MongoDB  
+- Responsive React frontend with product listings and cart management  
+- Ready for further extensions like low stock alerts and restocking automation
+
+---
 ## ⚙️ Setup Instructions
 
 ### 📋 Prerequisites
